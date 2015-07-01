@@ -37,10 +37,8 @@ __This will also be bold__
 
 # Logo and Alt Text
 ![GitHub Logo](https://www.fastly.com/img/customers/casestudy/github_logo.png)
-Format: ![Alt Text](www.google.com)
 
 #Links
-
 http://github.com - automatic!
 [GitHub](http://github.com)
 
