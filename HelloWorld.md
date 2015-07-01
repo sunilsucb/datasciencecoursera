@@ -42,3 +42,9 @@ __This will also be bold__
 http://github.com - automatic!
 [GitHub](http://github.com)
 
+#Blockquotes
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
